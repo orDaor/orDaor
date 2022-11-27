@@ -6,7 +6,7 @@
   - a **live messaging app** powered by Socket.IO
   - a tic-tac-toe **multipayer game**
   
-- 👀 In the long term I would like to learn more backend programming languages, and principal frontend frameworks.
+- 👀 I would like to learn more backend programming languages, and principal frontend frameworks.
 
 - 🌱 Possible **next** learning targets:
   - Java with **Spring** framework
