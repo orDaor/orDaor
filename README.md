@@ -1,4 +1,4 @@
-👋 Hi, my name is Orgher. I am a software engineer with industrial automation background, which wants to learn all the Web stack:
+👋 Hi, my name is Orgher. I am a software engineer with industrial automation background, which wants to learn the Web stack:
 
 - 💻 I had expirience with: **HTML, CSS, JavaScript, Node.js, Websockets (Socket.IO package), MongoDB, and a bit of MySQL**.
 
