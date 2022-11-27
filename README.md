@@ -2,7 +2,7 @@
 
 - 💻 I had expirience with: **HTML, CSS, JavaScript, Node.js, Websockets (Socket.IO package), MongoDB, and a bit of MySQL**.
 
-- ✅ I successfully developed and deployed the following applications, built with Node.js, MongoDB and frontend Vanilla Javascript:
+- ✅ I successfully **developed** and **deployed** the following applications, built with Node.js, MongoDB and frontend Vanilla Javascript:
   - a **live messaging app** powered by Socket.IO
   - a tic-tac-toe **multipayer game**
   
