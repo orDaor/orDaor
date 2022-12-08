@@ -12,6 +12,14 @@
   - Java with **Spring** framework
   - More **SQL** databases
   - **React** frontend framework   
+
+| **LIVE MESSAGING APP** |
+| ------------- |
+| ![Desktop view](https://github.com/orDaor/socket.io-live-chat/blob/main/assets/desktop-view-3.PNG)  | 
+
+| **MULTIPLAYER TIC-TAC-TOE GAME** |
+| ------------- |
+| ![Desktop view](https://github.com/orDaor/tic-tac-toe-multiplayer-short-polling/blob/main/assets/game-view.PNG)  | 
   
 <!---
 orDaor/orDaor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
