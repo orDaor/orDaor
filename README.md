@@ -9,7 +9,7 @@
 - 👀 I would like to learn more backend programming languages, and principal frontend frameworks.
 
 - 🌱 Possible **next** learning targets:
-  - Java with **Spring** framework
+  - Java with **Spring Boot** framework
   - More **SQL** databases
   - **React** frontend framework   
 
