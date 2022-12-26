@@ -1,6 +1,6 @@
 👋 Hi, my name is Orgher. I am a software engineer with industrial automation background, which has a passion for web development:
 
-- 💻 I had expirience with: **HTML, CSS, JavaScript, Node.js, Websockets (Socket.IO package), MongoDB**.
+- 💻 I had expirience with: **HTML, CSS, JavaScript, Node.js, Express.js, Websockets, Socket.IO, MongoDB**.
 
 - ✅ I successfully **developed** and **deployed** the following applications, built with Node.js, MongoDB and frontend Vanilla Javascript:
   - a **live messaging app** powered by Socket.IO
