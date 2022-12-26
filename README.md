@@ -13,11 +13,11 @@
   - **SQL** databases
   - **React** frontend framework   
 
-| **[<ins>Live Messaging App</ins>](https://github.com/orDaor/socket.io-live-chat)** |
+| **[<ins>Live Messaging App With Socket.IO</ins>](https://github.com/orDaor/socket.io-live-chat)** |
 | ------------- |
 | ![Desktop view](https://github.com/orDaor/socket.io-live-chat/blob/main/assets/desktop-view-3.PNG)  | 
 
-| **[<ins>Multiplayer Tic-tac-toe Game</ins>](https://github.com/orDaor/tic-tac-toe-multiplayer-short-polling)** |
+| **[<ins>Real Multiplayer Tic-tac-toe Game</ins>](https://github.com/orDaor/tic-tac-toe-multiplayer-short-polling)** |
 | ------------- |
 | ![Desktop view](https://github.com/orDaor/tic-tac-toe-multiplayer-short-polling/blob/main/assets/game-view.PNG)  | 
   
