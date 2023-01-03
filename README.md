@@ -4,12 +4,14 @@
 
 - ✅ I successfully **developed** and **deployed** the following applications, built with Node.js, MongoDB and frontend Vanilla Javascript:
   - a **live messaging app** powered by Socket.IO
-  - a tic-tac-toe **multipayer game**
+  - a **real** tic-tac-toe **multipayer** game
   
 - 👀 I would like to learn more backend programming languages, and principal frontend frameworks.
 
+- 💻 Currently learning **Java**
+
 - 🌱 **Next** learning targets:
-  - Java with **Spring Boot** framework
+  - **Spring Boot** backend framework
   - **SQL** databases
   - **React** frontend framework   
 
