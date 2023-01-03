@@ -15,7 +15,7 @@
   - **SQL** databases
   - **React** frontend framework   
 
-| **[<ins>Live Messaging App With Socket.IO</ins>](https://github.com/orDaor/socket.io-live-chat)** |
+| **[<ins>Responsive Live Messaging App With Socket.IO</ins>](https://github.com/orDaor/socket.io-live-chat)** |
 | ------------- |
 | ![Desktop view](https://github.com/orDaor/socket.io-live-chat/blob/main/assets/desktop-view-3.PNG)  | 
 
