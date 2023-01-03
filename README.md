@@ -1,4 +1,4 @@
-👋 Hi, my name is Orgher. I am a software engineer with industrial automation background, which has a passion for web development:
+👋 Hi, my name is Orgher. I am a software engineer with industrial automation background, who has a passion for web development:
 
 - 💻 I had expirience with: **HTML, CSS, JavaScript, Node.js, Express.js, Websockets, Socket.IO, MongoDB**.
 
