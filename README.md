@@ -9,9 +9,9 @@
 - 💻 Currently learning **Java**
 
 - 🌱 **Next** targets:
+  - **Angular** frontend framework   
   - **Spring Boot** backend framework
   - **SQL** databases
-  - **React** frontend framework   
 
 | **[<ins>Responsive Live Messaging App With Socket.IO</ins>](https://github.com/orDaor/socket.io-live-chat)** |
 | ------------- |
