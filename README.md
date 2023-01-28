@@ -6,8 +6,6 @@
   - a **live messaging app** powered by Socket.IO
   - a **real** tic-tac-toe **multipayer** game
 
-- 💻 Currently learning **Java**
-
 - 🌱 **Next** targets:
   - **Angular** frontend framework   
   - **Spring Boot** backend framework
