@@ -1,4 +1,4 @@
-👋 Hi, my name is Orgher!
+👋 Hi, my name is Orgher and I am a Software Engineer
 
 - 👷 At my current job I am developing APIs with **Java** and **Spring Boot**
 
