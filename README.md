@@ -4,7 +4,7 @@
 
 - 💻 In my free time I had expirience with: **HTML/CSS/JavaScript, Node.js/Express, Websockets/Socket.IO**
 
-- ✅ I had fun **developing** and **deploying** the following applications, built with Node.js, MongoDB and frontend Vanilla JavaScript (please try them out with the links below):
+- ✅ I had fun **developing** and **deploying** the following applications, built with Node.js, MongoDB and frontend Vanilla JavaScript (please take a look at those with the links below):
   - a **live messaging app** powered by Socket.IO
   - a **real** tic-tac-toe **multipayer** game
 
