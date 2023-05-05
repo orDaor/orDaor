@@ -2,7 +2,7 @@
 
 - 👷 At my current job I am developing APIs with **Java** and **Spring Boot**
 
-- 💻 In my free time I had expirience with: **HTML/CSS/JavaScript, Node.js/Express, Websockets/Socket.IO, MongoDB**.
+- 💻 In my free time I had expirience with: **HTML/CSS/JavaScript, Node.js/Express, Websockets/Socket.IO**.
 
 - ✅ I had fun **developing** and **deploying** the following applications, built with Node.js, MongoDB and frontend Vanilla JavaScript (please try them out with the links below):
   - a **live messaging app** powered by Socket.IO
