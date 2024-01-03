@@ -2,7 +2,7 @@
 
 - 👷 At my current job I am developing APIs with **Java** and **Spring Boot**
 
-- 💻 I have also expirience with: **HTML/CSS/JavaScript, Angular 2+, Node.js/Express, Websockets/Socket.IO**
+- 💻 I have also experience with: **HTML/CSS/JavaScript, Angular 2+, Node.js/Express, Websockets/Socket.IO**
 
 - 👀 Please take a look at my **repositories** to have some hints on the projects and technologies I like to work with
 
