@@ -8,7 +8,7 @@
 
 <br>
 
-**[<ins>Ecommerce Demo With Angular and Spring Boot</ins>](https://github.com/orDaor/ecommerce-angular-public)**
+**[<ins>Responsive Ecommerce Demo With Angular and Spring Boot</ins>](https://github.com/orDaor/ecommerce-angular-public)**
 | ![Products mobile view](https://github.com/orDaor/ecommerce-angular-public/blob/main/assets/github/mobile-views/1.mobile-products.JPG?raw=true) |![Product detail mobile view](https://github.com/orDaor/ecommerce-angular-public/blob/main/assets/github/mobile-views/3.mobie-product-detail.JPG?raw=true) |![Cart mobile view](https://github.com/orDaor/ecommerce-angular-public/blob/main/assets/github/mobile-views/4.mobile-cart.JPG?raw=true) |
 | ------------- | ------------- |------------- |
 
